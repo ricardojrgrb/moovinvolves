@@ -1,6 +1,6 @@
 README - Moovinvolves
 
- --> Faça o donwload do projeto completo através do Github, no endereço: 
+ --> Faça o donwload do projeto completo através do Github, no endereço: https://github.com/ricardojrgrb/moovinvolves 
 
  --> Caso ainda não possua a librarie cocoapods em seu computador, siga o passo abaixo:
 
